@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	body {
+	}
+
+	.EHeader {
+	  text-align: center;
+	  border: 2px tomato solid;
+	  text-shadow:2px 2px DarkViolet;
+	  background-color:white;
+	  color:coral;
+	}
+	.Etymology {
+		column-count: 2;
+	}
+	/* Lists */
+	ul {
+		font-family:"Monaco";
+	}
+	ol {
+		font-family:"Monaco";
+	}
+	</style>
+</head>
+<body>
+</body>
+</html>
