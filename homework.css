@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	body {
+	  background-color: linen;
+	}
+
+	h1 {
+	  text-align: center;
+	  border: tomato solid;
+	  color: tomato;
+	}
+	p {
+	  color: slateblue;
+	  margin-left: 40px;
+	  padding: 10px 10px 25px 10px;
+	}
+	</style>
+</head>
+<body>
+</body>
+</html>
