@@ -4,6 +4,7 @@
 	<style>
 	body {
 	}
+
 	.EHeader {
 	  text-align: center;
 	  border: 2px tomato solid;
@@ -13,6 +14,13 @@
 	}
 	.Etymology {
 		column-count: 2;
+	}
+	/* Lists */
+	ul {
+		font-family:"Monaco";
+	}
+	ol {
+		font-family:"Monaco";
 	}
 	</style>
 </head>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	body {
+	}
+	/* Tasks */
+	.DHeader {
+	  text-align: center;
+	  border: 2px HotPink solid;
+	  text-shadow:3px 3px HotPink;
+	  background-color:LavenderBlush;
+	  color:Purple;
+	}
+	.THeader {
+	  text-align: center;
+	  border: 2px Tan solid;
+	  text-shadow:3px 3px Green;
+	  background-color:YellowGreen;
+	  color:Wheat;
+	}
+	/* Eymology */
+	.EHeader {
+	  text-align: center;
+	  border: 2px tomato solid;
+	  text-shadow:2px 2px DarkViolet;
+	  background-color:white;
+	  color:coral;
+	}
+	.Etymology {
+		column-count: 2;
+	}
+	
+	/* Class Schedule Page */
+	.SHeader {
+		background-color:gray;
+		color:White;
+	}
+	.BlueDay {
+		background-color:dodgerblue;
+		color:black;
+	}
+	.GoldDay {
+		background-color:orange;
+		color:black;
+	}
+	
+	/* Robotics Schedule */
+	.RHeader {
+		text-align: center;
+		text-shadow:1px 1px DarkBlue;
+		background-color:CadetBlue;
+		color:white;		
+	} 
+	.jan {
+		text-align: center;
+		text-shadow:1px 1px DarkViolet;
+		background-color:AntiqueWhite;
+		color:steelblue;		
+	} 
+	.feb {
+		text-align: center;
+		text-shadow:1px 1px DarkBlue;
+		background-color:AntiqueWhite;
+		color:CadetBlue;		
+	} 
+	
+	#robotics {
+		text-align: center;
+		background-color:Ivory;
+	} 
+	
+	</style>
+</head>
+<body>
+</body>
+</html>
