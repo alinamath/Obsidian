@@ -1,1 +1,1 @@
-Hello, this is me just messing around, please keep scrolling lmao, unfortunetly i cant make this private :(
+Hello, this is me just messing around, there is nothing interesting here, just some css, please keep scrolling, unfortunetly i cant make this private :(
