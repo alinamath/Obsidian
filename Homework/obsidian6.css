@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	body {
+	}
+	@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+	
+	/* Tasks */
+	.DHeader {
+	  text-align: center;
+	  border: 2px HotPink solid;
+	  text-shadow:1.5px 1.5px HotPink;
+	  background-color:LavenderBlush;
+	  color:Purple;
+	}
+	.THeader {
+	  text-align: center;
+	  border: 2px Tan solid;
+	  text-shadow:1.5px 1.5px Green;
+	  background-color:YellowGreen;
+	  color:Wheat;
+	}
+	/* Eymology */
+	.EHeader {
+	  text-align: center;
+	  border: 2px tomato solid;
+	  text-shadow:1.5px 1.5px DarkViolet;
+	  background-color:white;
+	  color:coral;
+	}
+	.Etymology {
+		column-count: 2;
+	}
+	
+	/* Class Schedule Page */
+	.SHeader {
+		background-color:gray;
+		color:White;
+	}
+	.BlueDay {
+		background-color:dodgerblue;
+		color:black;
+	}
+	.GoldDay {
+		background-color:orange;
+		color:black;
+	}
+	
+	/* Robotics Schedule */
+	.RHeader {
+		text-align: center;
+		text-shadow:1px 1px DarkBlue;
+		background-color:CadetBlue;
+		color:white;		
+	} 
+	.jan {
+		text-align: center;
+		text-shadow:1px 1px DarkViolet;
+		background-color:AntiqueWhite;
+		color:steelblue;		
+	} 
+	.feb {
+		text-align: center;
+		text-shadow:1px 1px DarkBlue;
+		background-color:AntiqueWhite;
+		color:CadetBlue;		
+	} 
+	
+	#robotics {
+		text-align: center;
+		background-color:Ivory;
+	} 
+	
+	p {
+		color:white;
+	}
+	h1 {
+		color:white;		
+		font-family: 'Neonderthaw', cursive;
+	}
+	h2 {
+		color:white;		
+		font-family: 'Neonderthaw', cursive;
+	}	
+	h3 {
+		color:white;
+		font-family: 'Neonderthaw', cursive;
+	}	
+	h4 {
+		color:white;
+		font-family: 'Neonderthaw', cursive;
+	}	
+	h5 {
+		color:white;		
+		font-family: 'Neonderthaw', cursive;
+	}
+	li {
+		color:white;
+	}
+	ol {
+		color:white;
+	}
+	ul {
+		color:white;
+	}
+	button {
+		background-color:YellowGreen;
+	}
+	
+	</style>
+</head>
+<body>
+</body>
+</html>
